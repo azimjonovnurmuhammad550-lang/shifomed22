@@ -1,0 +1,8 @@
+{
+  "name": "SHIFOMED — Online Pharmacy Marketplace",
+  "description": "Premium multilingual online pharmacy marketplace for medicines, vitamins, dermocosmetics, and certified medical devices in Uzbekistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
